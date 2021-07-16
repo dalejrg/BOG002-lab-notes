@@ -1,0 +1,76 @@
+.headerHome{
+    display: flex;
+}
+
+.imgLogoLab {
+    margin-left: -9vh;
+}
+
+.mainLogoHome{
+    width: 58vw;
+}
+
+.logoutLogo{
+    margin-left: 19vh;
+}
+
+.btnLogout{
+    outline: none;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    margin: 1vh;
+}
+
+.imgLogoutLogo{
+    width: 25vw;
+}
+
+.note {
+    justify-content: center;
+}
+
+.noteContainer {
+    background-color: #00B3AF;
+    width: 90vw;
+    height: 30vh;
+    margin-left: 4vh;
+    border-radius: 2vh;
+}
+
+.textNote {
+    width: 80vw;
+    height: 15vh;
+    margin: 3vh;
+    border-radius: 2vh;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    color: rgba(0, 0, 0, 0.56);
+    font-weight: 400;
+    font-size: 30px;
+    padding: 1vw;
+}
+
+::placeholder {
+    font-family: 'Lato', sans-serif;
+    color: rgba(0, 0, 0, 0.56);
+    font-weight: 400;
+    font-size: 30px;
+    padding: 1vh;
+}
+
+.btnSend {
+    float: right;
+    margin-top: -4.7vh;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.sendIcon {
+    float: right;
+    width: 12vh;
+}
