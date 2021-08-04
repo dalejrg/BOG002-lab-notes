@@ -1,8 +1,7 @@
 import React from 'react';
 import { useHistory } from 'react-router-dom';
-//import { useHistory } from 'react-router-dom'
-import mainLoad from '../assets/load.svg'
-import '../styles/Load.css'
+import mainLoad from '../assets/load.svg';
+import '../styles/Load.css';
 
 function Load() {
     const history = useHistory();
